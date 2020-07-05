@@ -5,6 +5,7 @@
 ## Installation
 
 * [Untitled](installation/untitled.md)
+* [Local setup](installation/local-setup.md)
 
 ## General
 
