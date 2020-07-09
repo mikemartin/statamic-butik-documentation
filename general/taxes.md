@@ -2,6 +2,8 @@
 
 ## Getting you started
 
+![German taxes live in action](../.gitbook/assets/taxes.png)
+
 Before you can add products, you need to set up taxes first. I know taxes are never fun, so inside the install process we should have set up default taxes for your country. 
 
 If needed, you can add more tax rates or edit them of course. 
@@ -13,6 +15,8 @@ In case you did set up butik manually, you can easily add your taxes in the buti
 ### Create or edit taxes
 
 Log into the control panel and go crazy. Make your local tax office proud of your self. 
+
+![](../.gitbook/assets/taxes-menu.png)
 
 ### Decimal taxes
 

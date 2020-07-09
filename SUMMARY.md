@@ -10,17 +10,18 @@
 ## General
 
 * [Taxes](general/taxes.md)
+* [Countries](general/countries.md)
+
+## Shipping
+
+* [Basic Shipping](shipping/basic-shipping.md)
+* [Custom Shipping](shipping/custom-shipping.md)
 
 ## Products
 
 * [Create a product](products/create-a-product.md)
 * [Categories](products/categories.md)
 * [Variants](products/variants.md)
-
-## Shipping
-
-* [Basic Shipping](shipping/basic-shipping.md)
-* [Custom Shipping](shipping/custom-shipping.md)
 
 ## Payments
 
