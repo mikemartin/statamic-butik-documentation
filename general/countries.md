@@ -24,5 +24,7 @@ Create all the countries, you would like to sell your products to.  When setting
 
 If you want to ship to a specific country, make sure you did create the country.
 
-[Read more about the shipping process and how everything is connected.](../shipping/basic-shipping.md)
+Read more about the shipping process and how everything is connected
+
+{% page-ref page="../shipping/basic-shipping.md" %}
 

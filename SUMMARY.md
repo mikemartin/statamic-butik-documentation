@@ -6,7 +6,7 @@
 
 * [Manual](installation/untitled.md)
 * [Starter Kit](installation/starter-kit.md)
-* [Local setup](installation/local-setup.md)
+* [Dev Setup](installation/local-setup.md)
 * [Configuration](installation/configuration.md)
 
 ## General
