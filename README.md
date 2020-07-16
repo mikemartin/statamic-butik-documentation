@@ -4,7 +4,7 @@
 
 ![Statamic 3.0+](https://img.shields.io/badge/Statamic-3.0+-FF269E?style=for-the-badge&link=https://statamic.com) [![Latest Version on Packagist](https://img.shields.io/packagist/v/jonassiewertsen/statamic-butik.svg?style=for-the-badge)](https://packagist.org/packages/jonassiewertsen/statamic-butik)
 
-_**Butik**_ is a Scandinavian term for a small to medium sized shop, precisely what this Statamic addon has been crafted for. The _Statamic Butik_ e-commerce solution will integrate nicely with your personal Statamic site and help to grow your online business.
+_**butik**_ is a Scandinavian term for a small to medium sized shop, precisely what this Statamic addon has been crafted for. The _Statamic Butik_ e-commerce solution will integrate nicely with your personal Statamic site and help to grow your online business.
 
 You can use the light and simple design as shipped or customize it after your needs, to integrate it perfectly into your existing design.
 
@@ -24,7 +24,7 @@ _Statamic Butik_ is not free software.
 
 ## Beta
 
-"Butik" is an addon for Statamic v3, which is in beta right now. Until Statamic v3 is in beta, you **should be careful to use Butik in production. There can be breaking changes!**
+_butik_ is an addon for Statamic v3, which is in beta right now. Until Statamic v3 is in beta, you **should be careful to use Butik in production. There can be breaking changes!**
 
 ### Stability
 
