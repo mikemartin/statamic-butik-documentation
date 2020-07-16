@@ -4,7 +4,8 @@
 
 ## Installation
 
-* [Untitled](installation/untitled.md)
+* [Manual](installation/untitled.md)
+* [Starter Kit](installation/starter-kit.md)
 * [Local setup](installation/local-setup.md)
 * [Configuration](installation/configuration.md)
 
