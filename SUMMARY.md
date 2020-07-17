@@ -19,5 +19,5 @@
 
 ## Extending
 
-* [Payment gateway](extending/payment-gateway.md)
+* [Payment Gateway](extending/payment-gateway.md)
 
