@@ -17,3 +17,7 @@
 * [Products](configuration/products.md)
 * [Permissions](configuration/permissions.md)
 
+## Extending
+
+* [Payment gateway](extending/payment-gateway.md)
+
