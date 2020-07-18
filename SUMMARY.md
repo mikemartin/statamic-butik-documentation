@@ -18,6 +18,12 @@
 * [Products](configuration/products.md)
 * [Permissions](configuration/permissions.md)
 
+## Templating
+
+* [Overview](templating/overview.md)
+* [Templates](templating/templates.md)
+* [Antlers Tags](templating/antlers-tags.md)
+
 ## Extending
 
 * [Payment Gateway](extending/payment-gateway.md)
