@@ -14,7 +14,7 @@ One popular option is [Mailtrap](https://mailtrap.io/).
 
 Remember to define the [csrf exception](https://butik.dev/installation/untitled#allow-webhooks)
 
-{% page-ref page="configuration.md" %}
+{% page-ref page="../configuration/configuration.md" %}
 
 ## Payment process
 

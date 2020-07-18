@@ -4,13 +4,14 @@
 
 ## Installation
 
-* [Manual](installation/untitled.md)
-* [Starter Kit](installation/starter-kit.md)
+* [Installation](installation/installation/README.md)
+  * [Starter Kit](installation/installation/starter-kit.md)
+  * [Manual Setup](installation/installation/untitled.md)
 * [Dev Setup](installation/local-setup.md)
-* [Config File](installation/configuration.md)
 
 ## Configuration
 
+* [Config File](configuration/configuration.md)
 * [Taxes](configuration/taxes.md)
 * [Countries](configuration/countries.md)
 * [Shipping](configuration/shipping.md)
