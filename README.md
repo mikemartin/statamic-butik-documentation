@@ -38,7 +38,7 @@ What Butik can do:
 
 #### INSTALLATION
 
-* [x] You can use the installer, which is guiding you through most of the process
+* [x] Simply use our Starter Kit
 * [x] For more control, you can set it up manually
 
 #### PRODUCTS with
@@ -80,6 +80,10 @@ What Butik can do:
 * [x] All frontend and backend designs have been integrated with language files. 
 * [x] English as default fallback language
 * [x]  New languages can be added easily
+
+#### Permissions
+
+* [x] Control what different users are allowed to do
 
 #### SETTINGS
 
