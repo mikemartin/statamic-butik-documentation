@@ -18,11 +18,18 @@
 * [Products](configuration/products.md)
 * [Permissions](configuration/permissions.md)
 
-## Templating
+## Frontend
 
-* [Overview](templating/overview.md)
-* [Templates](templating/templates.md)
-* [Antlers Tags](templating/antlers-tags.md)
+* [Overview](frontend/overview.md)
+* [Templates](frontend/templates/README.md)
+  * [Shop overview](frontend/templates/shop-overview.md)
+  * [Category Overview](frontend/templates/category-overview.md)
+  * [Product Show](frontend/templates/product-show.md)
+  * [Bag Overview](frontend/templates/bag-overview.md)
+  * [Checkout Delivery](frontend/templates/checkout-delivery.md)
+  * [Checkout Payment](frontend/templates/checkout-payment.md)
+  * [Payment Receipt](frontend/templates/payment-receipt.md)
+* [Antlers Tags](frontend/antlers-tags.md)
 
 ## Extending
 
