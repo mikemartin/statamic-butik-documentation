@@ -1,5 +1,9 @@
 # Getting Started
 
+
+
+![](.gitbook/assets/butik-logo.svg)
+
 ## Statamic Butik - Statamic e-commerce solution
 
 ![Statamic 3.0+](https://img.shields.io/badge/Statamic-3.0+-FF269E?style=for-the-badge&link=https://statamic.com) [![Latest Version on Packagist](https://img.shields.io/packagist/v/jonassiewertsen/statamic-butik.svg?style=for-the-badge)](https://packagist.org/packages/jonassiewertsen/statamic-butik)
