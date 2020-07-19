@@ -1,10 +1,76 @@
 ---
-description: >-
-  We got a page template ready to go hooked up for you. Download, pull packages
-  and you are ready to go.
+description: 'We do provide a starter kit, so you don''t need to hassle with the setup'
 ---
 
 # Starter Kit
 
-Coming soon
+## Get your Starter Kit
+
+```text
+git@github.com:jonassiewertsen/statamic-butik-starter-kit.git butik
+cd butik
+rm -rf .git
+composer install
+cp .env.example .env && php artisan key:generate
+```
+
+{% hint style="success" %}
+Everything has been set up
+{% endhint %}
+
+## Create a user
+
+```text
+php please make:user
+```
+
+Make it a superuser if you want to grant total access.
+
+More information: [Statamic documentation](https://statamic.dev/users)
+
+## **Recompile CSS**
+
+{% hint style="info" %}
+This step is optional
+{% endhint %}
+
+The [TailwindCSS](https://tailwindcss.com/) included in this kit is compiled with [PurgeCSS](https://purgecss.com/) to reduce filesize on any unused classes and selectors. If you want to modify anything, just recompile it.
+
+```text
+npm i && npm run dev
+```
+
+To compile for production:
+
+```text
+npm run production
+```
+
+## Next Steps
+
+### Open your page
+
+If you're using [Laravel Valet](https://laravel.com/docs/valet) \(or similar\), your site should be available at `http://butik.test`. 
+
+You can access the control panel to edit your shop at `http://butik.test/cp` . Login with your new user to do so. 
+
+### Configure your shop
+
+It might be a good idea to configure your shop.
+
+{% page-ref page="../../configuration/configuration.md" %}
+
+### Make it yours
+
+Reuse every bit of our design or customize it after your needs.
+
+{% page-ref page="../../frontend/templates/" %}
+
+### Enjoy
+
+Hopefully you will have fun using _butik_ and may enjoy it. 
+
+### Having trouble?
+
+[Get in touch](https://butik.dev/#reach-out)
 
