@@ -8,9 +8,9 @@
 
 ![Statamic 3.0+](https://img.shields.io/badge/Statamic-3.0+-FF269E?style=for-the-badge&link=https://statamic.com) [![Latest Version on Packagist](https://img.shields.io/packagist/v/jonassiewertsen/statamic-butik.svg?style=for-the-badge)](https://packagist.org/packages/jonassiewertsen/statamic-butik)
 
-_**butik**_ is a Scandinavian term for a small to medium sized shop, precisely what this Statamic addon has been crafted for. The _Statamic Butik_ e-commerce solution will integrate nicely with your personal Statamic site and help to grow your online business.
+_**butik**_ is a Scandinavian term for a small to medium-sized shop, precisely what this Statamic add-on has been created for. The _Statamic Butik_ e-commerce solution will work great together with your personal Statamic site and will help you expand your online business.
 
-You can use the light and simple design as shipped or customize it after your needs, to integrate it perfectly into your existing design.
+You can use the light and simple design as offered or customize it according to your needs to merge it optimally with your current design.
 
 ## Reach out
 
@@ -20,7 +20,7 @@ You can use the light and simple design as shipped or customize it after your ne
 
 ## License
 
-Before going into productions with _Statamic Butik_, you need to buy a license at the Statamic Marketplace.
+Before working with _Statamic Butik_, you need to aqquire a license at the Statamic Marketplace.
 
 {% hint style="info" %}
 _Statamic Butik_ is not free software.
@@ -28,73 +28,73 @@ _Statamic Butik_ is not free software.
 
 ## Beta
 
-_butik_ is an addon for Statamic v3, which is in beta right now. Until Statamic v3 is in beta, you **should be careful to use Butik in production. There can be breaking changes!**
+_butik_ is an add-on for Statamic v3, which is currently in its beta phase. As long as Statamic v3 is in beta, you ~~**should be careful to use Butik in production. There can be breaking changes!**~~
 
 ### Stability
 
-The actual version is backed up by **350 PHPUnit tests** with **676 assertions** to check if things are working as expected.
+The current version is backed up by **350 PHPUnit tests** with **676 assertions** to monitor if things are working as expected.
 
-With Butik it's my highest goal to provide a stable and fun to use e-commerce solution, build with a Scandinavian mindset: Starting as simple as possible with the most stable foundation, to continue from there. Said so, keep in touch about the newest updates.
+When creating _Butik_ my highest goal was to provide a well functioning and fun to use e-commerce solution. _Butik_ is modeled after a Scandinavian mindset: starting as simple as possible with a solid foundation to continue from there on. Figuratively speaking: always keep in touch about the latest updates for the best user experience.
 
 ## Functionality
 
-What Butik can do:
+What Butik can provide:
 
-#### INSTALLATION
+#### Installation
 
-* [x] Simply use our Starter Kit
-* [x] For more control, you can set it up manually
+* [x] simply use our default settings OR
+* [x] set it up individually for your custom needs
 
-#### PRODUCTS with
+#### Product 
 
 * [x] SEO friendly URLs
 * [x] taxes
-* [x] variants
+* [x] variations
 * [x] shipping costs
 * [x] stock management
 
 #### Shipping
 
-* [x] Can be kept simple
-* [x] Can handle complex scenarios
-* [x] multiple shipping rates 
-* [x] different pricing for different countries 
+* [x] can be kept simple OR
+* [x] can perform complex scenarios
+* [x] set up multiple shipping rates 
+* [x] customized prices for each country 
 
-#### ORDERS
+#### Orders
 
-* [x] Keep easily track off all your orders
-* [x] Optional orders widget for your dashboard
+* [x] keep easily track off all your orders
+* [x] optional _Orders_ widget for your dashboard
 
 #### Mails
 
-* [x] Order confirmations for the customer
-* [x] Order confirmations for the seller
-* [x] Templates integrated with language files
+* [x] order confirmations for the customer AND
+* [x] order confirmations for the seller
+* [x] templates integrated with language files
 
-#### DESIGN
+#### Design
 
-* [x] Templates written in Antlers Syntax
+* [x] templates written in Antlers Syntax
 * [x] comes with a beautiful whitelabel design, ready to use out of the box
 * [x] layouts can be customized or swapped with your own
 * [x] templates can be customized or swapped with your own
-* [x] applies for email layouts & templates as well
+* [x] applies for e-mail layouts & templates as well
 
-#### TRANSLATION
+#### Translation
 
-* [x] All frontend and backend designs have been integrated with language files. 
-* [x] English as default fallback language
-* [x]  New languages can be added easily
+* [x] all frontend and backend designs have been integrated with language files 
+* [x] English as default language
+* [x]  new languages can be added easily
 
 #### Permissions
 
-* [x] Control what different users are allowed to do
+* [x] manage your customers user permissions
 
-#### SETTINGS
+#### Settings
 
-* [x] Integrate your currency
-* [x] Change all route names as you need them
-* [x] Integrate useful links into your mail template
-* [x] Swap layouts
+* [x] add your currency as a payment option
+* [x] change all route names according to your needs
+* [x] integrate useful links into your mail template
+* [x] swap layouts
 * [x] swap templates
 
 #### Requirements
@@ -105,7 +105,7 @@ What Butik can do:
 
 ## Payments
 
-All payments will be handled by [Mollie](https://mollie.com) and do offer
+All payments are regulated by [Mollie](https://mollie.com), offering:
 
 * PayPal
 * Visa
@@ -113,9 +113,9 @@ All payments will be handled by [Mollie](https://mollie.com) and do offer
 * Apple Pay
 * Klarna
 * American Express
-* and many more ...
+* and many more 
 
-**No monthly fees to use mollie.com.** You will be charged per transaction.
+**No monthly fees are required to use mollie.com.** You will be charged per transaction.
 
 ## Credits
 
