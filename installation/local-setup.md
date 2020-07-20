@@ -1,12 +1,12 @@
 ---
-description: How to set up your local dev environment
+description: How to set up your local dev environment.
 ---
 
 # Dev Setup
 
-## Emails
+## E-mails
 
-There a multiple options to test your emails locally. 
+There a multiple options to test your e-mails locally. 
 
 One popular option is [Mailtrap](https://mailtrap.io/).
 

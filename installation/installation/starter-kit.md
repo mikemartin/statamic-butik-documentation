@@ -1,5 +1,5 @@
 ---
-description: 'We do provide a starter kit, so you don''t need to hassle with the setup'
+description: 'We provide a starter kit, so you don''t need to hassle with the setup.'
 ---
 
 # Starter Kit
@@ -24,14 +24,14 @@ Everything has been set up
 php please make:user
 ```
 
-Make it a superuser if you want to grant total access.
+Make it a superuser if you want to grant overall access.
 
 More information: [Statamic documentation](https://statamic.dev/users)
 
 ## **Recompile CSS**
 
 {% hint style="info" %}
-This step is optional
+This step is optional.
 {% endhint %}
 
 The [TailwindCSS](https://tailwindcss.com/) included in this kit is compiled with [PurgeCSS](https://purgecss.com/) to reduce filesize on any unused classes and selectors. If you want to modify anything, just recompile it.
@@ -56,19 +56,19 @@ You can access the control panel to edit your shop at `http://butik.test/cp` . L
 
 ### Configure your shop
 
-It might be a good idea to configure your shop.
+The next step is the configuration of your shop.
 
 {% page-ref page="../../configuration/configuration.md" %}
 
 ### Make it yours
 
-Reuse every bit of our design or customize it after your needs.
+Use our preset design or customize it according to your needs.
 
 {% page-ref page="../../frontend/templates/" %}
 
 ### Enjoy
 
-Hopefully you will have fun using _butik_ and may enjoy it. 
+We hope you will have a postive experience using _butik_ and enjoy its results. 
 
 ### Having trouble?
 

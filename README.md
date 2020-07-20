@@ -28,7 +28,7 @@ _Statamic Butik_ is not free software.
 
 ## Beta
 
-_butik_ is an add-on for Statamic v3, which is currently in its beta phase. As long as Statamic v3 is in beta, you ~~**should be careful to use Butik in production. There can be breaking changes!**~~
+_butik_ is an add-on for Statamic v3, which is currently in its beta phase. As long as Statamic v3 is in beta, you **should keep in mind that major changes during the development could lead to malfunctions in** _**Butik**_  **which we supervise and fix as soon as possible.**
 
 ### Stability
 
@@ -94,7 +94,7 @@ What Butik can provide:
 * [x] add your currency as a payment option
 * [x] change all route names according to your needs
 * [x] integrate useful links into your mail template
-* [x] swap layouts
+* [x] swap layouts AND
 * [x] swap templates
 
 #### Requirements
@@ -115,7 +115,7 @@ All payments are regulated by [Mollie](https://mollie.com), offering:
 * American Express
 * and many more 
 
-**No monthly fees are required to use mollie.com.** You will be charged per transaction.
+**No monthly fee is required to use mollie.com.** You will be charged per transaction.
 
 ## Credits
 
