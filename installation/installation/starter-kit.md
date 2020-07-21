@@ -7,7 +7,7 @@ description: 'We provide a starter kit, so you don''t need to hassle with the se
 ## Get your Starter Kit
 
 ```text
-git@github.com:jonassiewertsen/statamic-butik-starter-kit.git butik
+git clone git@github.com:jonassiewertsen/statamic-butik-starter-kit.git butik
 cd butik
 rm -rf .git
 composer install
@@ -17,6 +17,12 @@ cp .env.example .env && php artisan key:generate
 {% hint style="success" %}
 Everything has been set up
 {% endhint %}
+
+**Line 1**: This will clone the repo onto your computer inside the folder `butik`  
+**Line 2**: Go into the new created folder  
+**Line 3**: Remove the github folder   
+**Line 4**: Install all dependencies  
+**Line 5**: Create your .env file and generate a fresh key
 
 ## Create a user
 
