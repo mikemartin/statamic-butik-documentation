@@ -16,6 +16,20 @@ Remember that you can customize all routes in your config file.
 
 {% page-ref page="../../configuration/configuration.md" %}
 
+## Publish templates
+
+{% hint style="info" %}
+Already set up in the Starter Kit
+{% endhint %}
+
+To edit all template files, you need to publish them into your views directory.
+
+```bash
+php artisan vendor:publish --tag="butik-views"
+```
+
+More about publishing assets
+
 ## Tags
 
 Most templates do come with some additional tags. We will write what you can expect.
