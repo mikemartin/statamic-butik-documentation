@@ -21,7 +21,7 @@ That's the first thing I want to say. Thanks a lot to help me testing butik in a
 ### Running into Problems?
 
 It's beta ... so it will happen for sure. That's why we are doing this. In case you are doing so, or am missing something important. **Please reach out to me!** I can't promise how fast I will respond, but I will promise to respond as fast as I can.  
-Feel free to get in contact via Discord, Mail \(mail@jonassiewertsen\) or Github issues.
+Feel free to get in contact via Discord, Mail \(**mail@jonassiewertsen.com**\) or Github issues.
 
 ### A lot of love
 
