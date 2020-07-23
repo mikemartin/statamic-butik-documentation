@@ -8,7 +8,7 @@
   * [Starter Kit](installation/installation/starter-kit.md)
   * [Manual Setup](installation/installation/untitled.md)
 * [Dev Setup](installation/local-setup.md)
-* [Publishing assets](installation/publishing-assets.md)
+* [Publish assets](installation/publishing-assets.md)
 
 ## Configuration
 

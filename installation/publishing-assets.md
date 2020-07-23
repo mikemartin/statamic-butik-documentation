@@ -1,4 +1,4 @@
-# Publishing assets
+# Publish assets
 
 {% hint style="success" %}
 Using the Starter Kit? Normally you don't need to worry about publishing assets then. 
@@ -47,4 +47,12 @@ php artisan vendor:publish --tag="butik-lang"
 If you want to add or edit language files. 
 
 Will be published to `/resources/lang/`
+
+## All assets
+
+```text
+php artisan vendor:publish --provider="Jonassiewertsen\StatamicButik\StatamicButikServiceProvider"
+```
+
+This command will publish all available assets
 
