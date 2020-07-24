@@ -1,5 +1,5 @@
 ---
-description: Checkout step nr. 1
+description: This is the first checkout step.
 ---
 
 # Checkout Delivery
@@ -10,16 +10,16 @@ description: Checkout step nr. 1
 /checkout/delivery.antlers.html
 ```
 
-We will ask our customer to type his delivery information.
+We will ask the customer to give his delivery information.
 
 ## Tags
 
 | Options | Description |
 | :--- | :--- |
-| **customer** | Will empty the first time. After submitting the first form, it will contain all needed customer information. |
+| **customer** | Will be empty during the first order. After submitting it for the first time, all needed customer information will be filled out automatically. |
 | **countries** | All available countries to ship to. |
 | **selected\_country** | The selected country or default country. |
-| **items** | All items from the bag the customer want to buy. |
+| **items** | All items from the bag the customer wants to buy. |
 
 ## Functionality
 
@@ -36,5 +36,5 @@ Changed shipping prices will become visible as well.
 
 ### Item confirmation
 
-We will always show what the customer did buy and what the total price will be.
+We will always show what the customer selected and what the total price would be.
 

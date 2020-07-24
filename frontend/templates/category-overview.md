@@ -1,5 +1,5 @@
 ---
-description: Nothing more then grouped products
+description: Simply grouped products.
 ---
 
 # Category Overview
@@ -16,5 +16,5 @@ This page is nearly similar to the shop overview.
 
 The main difference is, that it will show products belonging to the selected category. 
 
-It has it's own template to give you more flexibility.
+It has it's own template to enable more flexibility.
 
