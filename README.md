@@ -12,36 +12,6 @@ _**butik**_ is a Scandinavian term for a small to medium-sized shop, precisely w
 
 You can use the light and simple design as offered or customize it according to your needs to merge it optimally with your current design.
 
-## BETA TESTING
-
-THANK YOU!
-
-That's the first thing I want to say. Thanks a lot to help me testing butik in a real-life situation. I can't wait to hear your feedback!
-
-### Running into Problems?
-
-It's beta ... so it will happen for sure. That's why we are doing this. In case you are doing so, or am missing something important. **Please reach out to me!** I can't promise how fast I will respond, but I will promise to respond as fast as I can.  
-Feel free to get in contact via Discord, Mail \(**mail@jonassiewertsen.com**\) or Github issues.
-
-### A lot of love
-
-butik has been build a little different \(a least I think so\). For the last 7 month, I did try to find the best balance between »just working« and »customizable«. There are a lot of thoughts, thinking and ideas in accomplishing that with butik.
-
-I am really excited to hear which parts you like and if you are missing some things. 
-
-### That is missing before the final version
-
-* Glide integration \(working on that\)
-* Polishing the API to integrate your own Shipping Types
-* Polishing the API to integrate your own Payment Gateways
-* Integration of coupons
-
-### Have a lot of fun
-
-As written on twitter: I will give away one free license among the beta testers. We will be around 10 people testing the beta version.
-
-I hope you will have fun testing the beta!
-
 ## Reach out
 
 * [Github issue tracking](https://github.com/jonassiewertsen/statamic-butik)
