@@ -28,7 +28,7 @@ To edit all template files, you need to publish them into your views directory.
 php artisan vendor:publish --tag="butik-views"
 ```
 
-More about publishing assets.
+{% page-ref page="../../installation/publishing-assets.md" %}
 
 ## Tags
 

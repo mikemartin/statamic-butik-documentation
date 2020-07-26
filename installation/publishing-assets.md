@@ -4,6 +4,16 @@
 Using the Starter Kit? Normally you don't need to worry about publishing assets then. 
 {% endhint %}
 
+_butik_ will automatically publish the following assets during installation:
+
+* Config file
+* Images
+* resources
+
+The resources \(javascript file for the control panel and css file for the frontend\) will be forced to overwrite existing files. 
+
+To avoid 
+
 ## Config
 
 ```text
@@ -12,9 +22,7 @@ php artisan vendor:publish --tag="butik-config"
 
 Will be published to `config/butik.php`
 
-{% hint style="info" %}
-It's recommended to always publish the config file. 
-{% endhint %}
+The config file will automatically be published during the installation process. In case of updates, you need to change the config file manually. 
 
 ## Views
 
@@ -27,6 +35,8 @@ Use our templates as your starting point
 {% endhint %}
 
 Will be published to `resources/views/vendor/butik/`
+
+The views will automatically be published during the installation process. In case of updates, you need to change the views manually.
 
 ## Images
 
