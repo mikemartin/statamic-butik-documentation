@@ -80,7 +80,7 @@ Will return the route to the butik bag \(shopping cart\).
 
 ## Categories
 
-This tag is handy to fx create a menu for exisiting categories, wherever you need them on your page.
+This tag is handy to create a menu for exisiting categories, wherever you need them on your page.
 
 ### Default
 
@@ -93,7 +93,7 @@ This tag is handy to fx create a menu for exisiting categories, wherever you nee
 | Values | Description |
 | :--- | :--- |
 | **root** | Should the root category be included? \(default: true\) |
-| **root\_name** | The name of the root entry, linking to the product overview page |
+| **root\_name** | The name of the root entry, linking to the product overview page. |
 
 #### Returns
 
@@ -110,7 +110,7 @@ This tag is handy to fx create a menu for exisiting categories, wherever you nee
 {{ categories:count }}
 ```
 
-Will return the total number of created categories
+Will return to the total number of created categories.
 
 ### Example: Create categories menu
 
@@ -125,7 +125,7 @@ Will return the total number of created categories
 
 ## Currency
 
-Get currency information from your shop
+Get the currency information from your shop.
 
 ### Symbol
 
@@ -135,7 +135,7 @@ Get currency information from your shop
 {{ currency:symbol }}
 ```
 
-Will return the currency symbol
+Will return the currency symbol.
 
 ### Name
 
@@ -169,5 +169,5 @@ Will return the currency delimiter.
 {{ products }}
 ```
 
-Will return all existing products
+Will return all existing products.
 

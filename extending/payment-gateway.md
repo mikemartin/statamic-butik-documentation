@@ -1,11 +1,13 @@
 ---
-description: In case you want to implement your own Payment Gateway
+description: >-
+  In case you want to implement your own Payment Gateway butik offers a
+  solution.
 ---
 
 # Payment Gateway
 
 {% hint style="info" %}
-This part of the docs does need some more testing and polishing.
+This part of the docs requires more testing and polishing.
 {% endhint %}
 
 ```text
