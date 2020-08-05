@@ -8,7 +8,7 @@ description: There are multiple ways to set up butik.
 
 This is our recommended way to install butik. 
 
-With this starter kit we did much more then just setting up _butik_ for you. We also created a complete layout ready for you to use. It has been our focus to make it aesthetically pleasing and if needed easily adaptable to change according to your needs. 
+With this starter kit we did much more then just setting up _butik_ for you. We also created a complete e-commerce website ready for you to use. It has been our focus to make it aesthetically pleasing and if needed easily adaptable to change according to your needs. 
 
 Feel free to use the preset design exactly as it is, just tweak a few things or rebuild all templates from scratch in accordance with your own tastes. 
 
