@@ -1,16 +1,16 @@
 # Shipping
 
-Your shipping settings can be kept simple or really complex if you need them to be. 
+Your shipping settings can be simple or as complex as you need them to be. 
 
 ![Edit your shipping settings in the control panel.](../.gitbook/assets/shipping-menu.png)
 
 ## Shipping Profiles
 
-A shipping profile is the connection between your product and the calculation of the shipping price. You need to choose one shipping profile for each product.
+A shipping profile is how your product shipping rate is calculated. You need to choose one shipping profile for each product.
 
 ![The standard profile will be created as default.](../.gitbook/assets/shipping-profile-overview.png)
 
-Each shipping profile has it's own [shipping zones](https://butik.dev/configuration/shipping#shipping-zones) and [rates](https://butik.dev/configuration/shipping#shipping-rates). This gives you the flexibility to decide where your products can be purchased and what you need and want to charge for shipping.
+Each shipping profile has [shipping zones](https://butik.dev/configuration/shipping#shipping-zones) and [rates](https://butik.dev/configuration/shipping#shipping-rates). This gives you the flexibility to specify where your products can be shipped and how you want to calculate shipping.
 
 {% hint style="success" %}
 You only need one profile. 
@@ -18,7 +18,7 @@ You only need one profile.
 
 ### Use case 1: T-Shirt shop
 
-Let's assume you own a shop, only selling T-shirts. The got different colors, sizes and prices, but the shipping costs are the same per T-Shirt. 
+Let's assume you own a shop, only selling T-shirts. They have a variety of colors and prices, but the shipping costs are the same per T-Shirt. 
 
 No need for more than one Shipping profile. 
 
