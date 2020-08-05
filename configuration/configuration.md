@@ -2,7 +2,9 @@
 description: Those are the basic and most important settings to make.
 ---
 
-# Config File
+# Configuration
+
+All of the configuration files for Butik are stored in `config/butik.php`. Each of the options are also documented in the config file.
 
 ## Shop information
 
