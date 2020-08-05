@@ -42,60 +42,60 @@ What Butik can provide:
 
 #### Installation
 
-* [x] simply use our default settings OR
-* [x] set it up individually for your custom needs
+* [x] Simply use our default settings OR
+* [x] Set it up individually for your custom needs
 
 #### Product 
 
-* [x] SEO friendly URLs
-* [x] taxes
-* [x] variations
-* [x] shipping costs
-* [x] stock management
+* [x] SEO-Friendly URLs
+* [x] Taxes
+* [x] Variations
+* [x] Shipping costs
+* [x] Stock management
 
 #### Shipping
 
-* [x] can be kept simple OR
-* [x] can perform complex scenarios
-* [x] set up multiple shipping rates 
-* [x] customized prices for each country 
+* [x] Can be kept simple OR
+* [x] Can perform complex scenarios
+* [x] Set up multiple shipping rates 
+* [x] Customized prices for each country 
 
 #### Orders
 
-* [x] keep easily track off all your orders
-* [x] optional _Orders_ widget for your dashboard
+* [x] Keep easily track off all your orders
+* [x] Optional _Orders_ widget for your dashboard
 
 #### Mails
 
-* [x] order confirmations for the customer AND
-* [x] order confirmations for the seller
-* [x] templates integrated with language files
+* [x] Order confirmations for the customer AND
+* [x] Order confirmations for the seller
+* [x] Templates integrated with language files
 
 #### Design
 
-* [x] templates written in Antlers Syntax
-* [x] comes with a beautiful whitelabel design, ready to use out of the box
-* [x] layouts can be customized or swapped with your own
-* [x] templates can be customized or swapped with your own
-* [x] applies for e-mail layouts & templates as well
+* [x] Templates written in Antlers Syntax
+* [x] Comes with a beautiful whitelabel design, ready to use out of the box
+* [x] Layouts can be customized or swapped with your own
+* [x] Templates can be customized or swapped with your own
+* [x] Applies for e-mail layouts & templates as well
 
 #### Translation
 
-* [x] all frontend and backend designs have been integrated with language files 
+* [x] All frontend and backend designs have been integrated with language files 
 * [x] English as default language
-* [x]  new languages can be added easily
+* [x] New languages can be added easily
 
 #### Permissions
 
-* [x] manage your customers user permissions
+* [x] Manage your customers user permissions
 
 #### Settings
 
-* [x] add your currency as a payment option
-* [x] change all route names according to your needs
-* [x] integrate useful links into your mail template
-* [x] swap layouts AND
-* [x] swap templates
+* [x] Add your currency as a payment option
+* [x] Change all route names according to your needs
+* [x] Integrate useful links into your mail template
+* [x] Swap layouts AND
+* [x] Swap templates
 
 #### Requirements
 
