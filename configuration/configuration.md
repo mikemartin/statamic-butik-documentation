@@ -6,7 +6,7 @@ description: Those are the basic and most important settings to make.
 
 ## Shop information
 
-Those information will mostly be used for view or email templates.
+These values will mostly be used for views or email templates.
 
 ```text
 'name'     => 'Statamic Butik',
@@ -26,7 +26,7 @@ Follow this link to see how you can define countries in your control panel.
 
 {% page-ref page="countries.md" %}
 
-The defined country will be set as your default country. As long as a user does not select another country in the checkout process, all shipping prices will be calculated on the basis of the default country.
+The defined country will be set as your default country. As long as a user does not select another country in the checkout process, all shipping prices will be calculated based on the default country.
 
 ## Shop overview
 
@@ -34,6 +34,7 @@ The defined country will be set as your default country. As long as a user does 
 'overview_type'    => 'newest',
 'overview_limit'   => '6',
 ```
+
 
 What do you want butik to show on the overview page; the entry point for your shop?
 
@@ -56,13 +57,13 @@ The overview limit does only limit the number of products shown on the shop over
 'order-confirmations' => 'your_mail@butik.com',
 ```
 
-Butik will send one confirmation e-mail for every sold product. You can define the address right here.
+Butik will send one confirmation email for every sold product. You can define the address right here.
 
 {% hint style="info" %}
-You need to set up your mails with Statamic correctly, before butik can successfully notify you. 
+You need to set up your Statamic email settings correctly, before butik can successfully notify you. 
 {% endhint %}
 
-See the [Statamic documentation](https://statamic.dev/email) for more information. You can easily send yourself a test mail from the control panel to confirm that you mail is working as expected.
+See the [Statamic documentation](https://statamic.dev/email) for more information. You can easily send yourself a test mail from the control panel to confirm that your email is working as expected.
 
 ##  Useful links
 
